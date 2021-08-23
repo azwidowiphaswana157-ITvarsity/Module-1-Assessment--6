@@ -226,13 +226,13 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
 .xx-border-red,.xx-hover-border-red:hover{border-color:#f44336!important}
 .xx-border-sand,.xx-hover-border-sand:hover{border-color:#fdf5e6!important}
 .xx-border-teal,.xx-hover-border-teal:hover{border-color:#009688!important}
-.xx-border-yellow,.xx-hover-border-yellow:hover{border-color:#ffeb3b!important}
+.:hover{border-color:#ff9933!important}
 .xx-border-white,.xx-hover-border-white:hover{border-color:#fff!important}
 .xx-border-black,.xx-hover-border-black:hover{border-color:#000!important}
 .xx-border-grey,.xx-hover-border-grey:hover,.xx-border-gray,.xx-hover-border-gray:hover{border-color:#9e9e9e!important}
 .xx-border-light-grey,.xx-hover-border-light-grey:hover,.xx-border-light-gray,.xx-hover-border-light-gray:hover{border-color:#f1f1f1!important}
 .xx-border-dark-grey,.xx-hover-border-dark-grey:hover,.xx-border-dark-gray,.xx-hover-border-dark-gray:hover{border-color:#616161!important}
-.xx-border-pale-red,.xx-hover-border-pale-red:hover{border-color:#ffe7e7!important}.xx-border-pale-green,.xx-hover-border-pale-green:hover{border-color:#e7ffe7!important}
+.xx-border-pale-red,.xx-hover-border-pale-red:hover{border-color:#fffff!important}.xx-border-pale-green,.xx-hover-border-pale-green:hover{border-color:#e7ffe7!important}
 .xx-border-pale-yellow,.xx-hover-border-pale-yellow:hover{border-color:#ffffcc!important}.xx-border-
 
 
@@ -342,7 +342,7 @@ html, body {
 }
 
 .color-choose input[type=&amp;quot;radio&amp;quot;]:checked + label span {
-  background-image: url(img\smoothie-3697014.jpg);
+  background-image: url(images/download (7).jpg);
   background-repeat: no-repeat;
   background-position: center;
 }
